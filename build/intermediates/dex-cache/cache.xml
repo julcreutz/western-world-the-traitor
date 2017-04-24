@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juli\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.5\dc65bb2f51828c58b1b2b3ac585357204d54ee5f\gdx-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dc65bb2f51828c58b1b2b3ac585357204d54ee5f">
+        <dex dex="C:\Users\Juli\IdeaProjects\Western World The Traitor\android\build\intermediates\pre-dexed\debug\gdx-1.9.5_929ba7a2e452493e953dbb176db24873c71c3477.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juli\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.5\293bbe05bfb5ca812c849e4d1f494f56509d5a6e\gdx-backend-android-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="293bbe05bfb5ca812c849e4d1f494f56509d5a6e">
+        <dex dex="C:\Users\Juli\IdeaProjects\Western World The Traitor\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.9.5_ce1fed450f4b9ada2daf5446a0f73fd37368856a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Juli\IdeaProjects\Western World The Traitor\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a2e9c5c4810ee866291c045176d346028497ff1f">
+        <dex dex="C:\Users\Juli\IdeaProjects\Western World The Traitor\android\build\intermediates\pre-dexed\debug\core-1.0_747adc4fc1e89d1f71d9c0ec561bfe7ec4d441be.jar" />
+    </item>
+
+</items>
