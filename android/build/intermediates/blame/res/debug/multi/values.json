@@ -1,0 +1,47 @@
+[
+    {
+        "outputFile": "C:\\Users\\Juli\\IdeaProjects\\Western World The Traitor\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "C:\\Users\\Juli\\IdeaProjects\\Western World The Traitor\\android\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 62,
+                        "endOffset": 114
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endLine": 10,
+                    "endColumn": 12,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "C:\\Users\\Juli\\IdeaProjects\\Western World The Traitor\\android\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 475
+                    }
+                }
+            }
+        ]
+    }
+]
